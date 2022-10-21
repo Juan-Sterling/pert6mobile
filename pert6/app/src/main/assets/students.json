@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1111,
+    "firstname": "John",
+    "lastname": "Doe",
+    "department": "IT",
+    "email": "johndoe@email.com"
+  },
+  {
+    "id": 2222,
+    "firstname": "Susan",
+    "lastname": "Bones",
+    "department": "IT",
+    "email": "susanbones@email.com"
+  },
+  {
+    "id": 3333,
+    "firstname": "Richard",
+    "lastname": "Max",
+    "department": "IT",
+    "email": "richardmax@email.com"
+  },
+  {
+    "id": 4444,
+    "firstname": "Haha",
+    "lastname": "Hihi",
+    "department": "IT",
+    "email": "hahahihi@email.com"
+  }
+]
